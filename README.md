@@ -1,2 +1,2 @@
 # Vaku
-Scoop bucket for vaku binaries, powered by @goreleaser
+Scoop bucket for [vaku](https://vaku.dev/) binaries, powered by @goreleaser
