@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/lingrino/vaku/releases/download/v2.0.0/vaku_2.0.0_windows_i386.zip",
+            "bin": [
+                "vaku.exe"
+            ],
+            "hash": "0011065909121530a2bfc05f0f037d0dcc4bc5961c05bd64b1a1c9fbad02f589"
+        },
+        "64bit": {
+            "url": "https://github.com/lingrino/vaku/releases/download/v2.0.0/vaku_2.0.0_windows_x86_64.zip",
+            "bin": [
+                "vaku.exe"
+            ],
+            "hash": "51f9197bc88c3046b1d31f1c44ab5905baa995c8a160ee0d325ebda01227533a"
+        }
+    },
+    "homepage": "https://vaku.dev/",
+    "license": "MIT",
+    "description": "CLI that extends the official Vault client."
+}
