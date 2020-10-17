@@ -6,14 +6,14 @@
             "bin": [
                 "vaku.exe"
             ],
-            "hash": "0011065909121530a2bfc05f0f037d0dcc4bc5961c05bd64b1a1c9fbad02f589"
+            "hash": "181293977c9066d05fc872be9c47d5c7f2d74c1144a4d60f9bbc8a7dc433e1e2"
         },
         "64bit": {
             "url": "https://github.com/lingrino/vaku/releases/download/v2.0.0/vaku_2.0.0_windows_x86_64.zip",
             "bin": [
                 "vaku.exe"
             ],
-            "hash": "51f9197bc88c3046b1d31f1c44ab5905baa995c8a160ee0d325ebda01227533a"
+            "hash": "06f0c3616002b3928c4a1719be9a4464aacbb116387c28512ea6287ac7b4598c"
         }
     },
     "homepage": "https://vaku.dev/",
