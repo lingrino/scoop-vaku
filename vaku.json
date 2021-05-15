@@ -1,19 +1,19 @@
 {
-    "version": "2.2.1",
+    "version": "2.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/lingrino/vaku/releases/download/v2.2.1/vaku_2.2.1_windows_i386.zip",
+            "url": "https://github.com/lingrino/vaku/releases/download/v2.3.0/vaku_2.3.0_windows_i386.zip",
             "bin": [
                 "vaku.exe"
             ],
-            "hash": "a92ab2a8fa3b0e10978248392386a07481dc2b02ca2688f570e9e42a515eaf95"
+            "hash": "3a919d69501dd243cd45228c66952ea2935f05fb0979c9fe1dbfed7304add8d1"
         },
         "64bit": {
-            "url": "https://github.com/lingrino/vaku/releases/download/v2.2.1/vaku_2.2.1_windows_x86_64.zip",
+            "url": "https://github.com/lingrino/vaku/releases/download/v2.3.0/vaku_2.3.0_windows_x86_64.zip",
             "bin": [
                 "vaku.exe"
             ],
-            "hash": "fb95667c833c8ead153427568db95c53290f64f27beedebe39c539018d66ebb2"
+            "hash": "8dde33994079517acc09696b40c464663650459681859141b615cf7e62340bfe"
         }
     },
     "homepage": "https://vaku.dev/",
